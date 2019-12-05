@@ -27,13 +27,7 @@ $ pkg install git -y
 $ git clone https://github.com/kamix4/Hacker
 ```
 ```
-$ ls
-```
-```
 $ cd Hacker
-```
-```
-$ ls
 ```
 ```
 $ bash Hacker.sh
